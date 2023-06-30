@@ -29,6 +29,11 @@ We may share your personal information with third parties only in the following 
 - To comply with applicable laws, regulations, or legal processes.
 - To protect the rights, property, or safety of Trysca, its users, or others.
 
+## Links To Third Party Websites
+
+Our Services may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
 ## Data Security
 
 We take appropriate security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, please note that no method of transmission over the internet or electronic storage is 100% secure.
