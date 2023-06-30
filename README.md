@@ -43,6 +43,6 @@ We may update this Privacy Policy from time to time. Any changes will be effecti
 
 ## Contact Us
 
-If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact us on [discord](https://discord.gg/egvmz5NjSZ) or email us at [tryscabot@gmail.com](mailto:tryscabot@gmail.com).
+If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact us on [Discord](https://discord.gg/egvmz5NjSZ) or email us at [tryscabot@gmail.com](mailto:tryscabot@gmail.com).
 
 `By using the App, you signify your acceptance of this Privacy Policy. If you do not agree to this Policy, please refrain from using the App.`
