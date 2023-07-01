@@ -38,6 +38,5 @@ We reserve the right to update or modify these Terms of Service at any time. Any
 ## Contact Us
 
 If you have any questions, concerns, or feedback regarding these Terms of Service, please contact us on [Discord](https://discord.gg/egvmz5NjSZ) or email us at [tryscabot@gmail.com](mailto:tryscabot@gmail.com).
-.
 
 **Please read these Terms of Service carefully and ensure that you understand and agree to all provisions before using the Bot.**
