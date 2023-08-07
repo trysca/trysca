@@ -1,6 +1,6 @@
 # Terms of Service
 
-*Last updated: 30 June 2023*
+*Last updated: 7 August 2023*
 
 *Please read these Terms of Service carefully before using Trysca*
 
@@ -30,6 +30,10 @@ The Bot and its contents, including but not limited to logos, designs, and text,
 ## Limitation of Liability
 
 In no event shall we be liable for any indirect, consequential, incidental, special, or punitive damages arising out of or in connection with your use of the Bot, even if we have been advised of the possibility of such damages.
+
+## Termination of Usage
+
+We may terminate or suspend your access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
 
 ## Changes to the Terms of Service
 
