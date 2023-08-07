@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Last updated: 30 June 2023*
+*Last updated: 7 August 2023*
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you use **Trysca**.
 
@@ -32,7 +32,7 @@ We may share your personal information with third parties only in the following 
 ## Links To Third Party Websites
 
 Our Services may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Trysca has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
 
 ## Data Security
 
