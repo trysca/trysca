@@ -2,7 +2,7 @@
 
 *Last updated: 7 August 2023*
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you use **Trysca**.
+_We (Trysca "Company", "Us", "Our") are very much aware of your care when it comes to your personal information which we take very seriously. Read the rest to know more about our Privacy Policy. **We only ask for what we absolutely need. Everything requested is necessary for us and you to ensure the functionality of Trysca Discord Bot. All information is collected legally without any malicious intent. Information we request is Discord Data since Trysca is a Discord bot that relies mainly on Discord Data.**_
 
 ## Information We Collect
 
@@ -55,6 +55,6 @@ We may update this Privacy Policy from time to time. Any changes will be effecti
 
 ## Contact Us
 
-If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact us on [Discord](https://discord.gg/egvmz5NjSZ) or email us at tryscabot@gmail.com.
+If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact us on **[Discord](https://discord.gg/egvmz5NjSZ)** or email us at **tryscabot@gmail.com**.
 
 **By using the App, you signify your acceptance of this Privacy Policy. If you do not agree to this Policy, please refrain from using the App.**
