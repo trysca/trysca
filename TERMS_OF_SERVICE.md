@@ -1,8 +1,8 @@
 # Terms of Service
 
-*Last updated: 7 August 2023*
+*Last updated: 8 August 2023*
 
-*Please read these Terms of Service carefully before using Trysca*
+***We (Trysca "Company", "Us", "Our") offer services that are bound and subject to terms shown on this file. By using our services (Trysca Discord Bot and Trysca Support Server), you agree and consent to all the terms shown on this file. We urge you to read our terms of service and all our policies.***
 
 ## Agreement to Terms
 
