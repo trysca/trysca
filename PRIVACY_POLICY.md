@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Last updated: 7 August 2023*
+*Last updated: 8 August 2023*
 
 _We (Trysca "Company", "Us", "Our") are very much aware of your care when it comes to your personal information which we take very seriously. Read the rest to know more about our Privacy Policy. **We only ask for what we absolutely need. Everything requested is necessary for us and you to ensure the functionality of Trysca Discord Bot. All information is collected legally without any malicious intent. Information we request is Discord Data since Trysca is a Discord bot that relies mainly on Discord Data.**_
 
