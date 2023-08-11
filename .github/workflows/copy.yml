@@ -24,6 +24,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add .github/.github/SECURITY.md
+          cd ../.github
+          git add .github/SECURITY.md
           git commit -m "Update SECURITY.md from trysca"
           git push
