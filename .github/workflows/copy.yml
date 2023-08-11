@@ -27,4 +27,4 @@ jobs:
           cd .github
           git add .github/SECURITY.md
           git commit -m "Update SECURITY.md from trysca"
-          git push
+          git push https://${{ secrets.PAT }}@github.com/trysca/.github.git HEAD:main
