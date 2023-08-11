@@ -12,10 +12,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        
+      - name: pwd
+        run: pwd
 
       - name: Copy SECURITY.md
         run: |
           cp SECURITY.md .github/.github/SECURITY.md
+      - name: ls
+        run: ls -R .github
 
       - name: Commit changes
         run: |
