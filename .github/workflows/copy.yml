@@ -1,0 +1,35 @@
+name: Copy SECURITY.md
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  copy_file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout trysca repository
+        uses: actions/checkout@v2
+        with:
+          repository: trysca/trysca
+          path: trysca
+
+      - name: Create target repository directory
+        run: mkdir -p .github
+
+      - name: Copy SECURITY.md
+        run: cp trysca/SECURITY.md .github/.github/SECURITY.md
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Commit and push changes
+        run: |
+          cd .github/.github
+          git add SECURITY.md
+          git commit -m "Copy SECURITY.md from trysca"
+          git push origin main
