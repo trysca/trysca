@@ -17,10 +17,10 @@ jobs:
           path: trysca
 
       - name: Create target repository directory
-        run: mkdir -p .github
+        run: mkdir -p test
 
       - name: Copy SECURITY.md
-        run: cp trysca/SECURITY.md .github/.github/SECURITY.md
+        run: cp trysca/SECURITY.md test/.github/SECURITY.md
 
       - name: Configure Git
         run: |
@@ -29,7 +29,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          cd .github/.github
+          cd test/.github
           git add SECURITY.md
           git commit -m "Copy SECURITY.md from trysca"
           git push origin main
