@@ -22,6 +22,8 @@ jobs:
 
       - name: Commit changes
         run: |
+          git config --global user.email "tryscabot@gmail.com"
+          git config --global user.name "Trysca Automation"
           cd .github
           git add .github/SECURITY.md
           git commit -m "Update SECURITY.md from trysca"
