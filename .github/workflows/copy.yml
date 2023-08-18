@@ -15,8 +15,8 @@ jobs:
 
       - name: Copy SECURITY.md
         run: |
-          git config --global user.email "actions@example.com"
-          git config --global user.name "GitHub Actions"
+          git config --global user.email "tryscabot@gmail.com"
+          git config --global user.name "Trysca Automation"
           git clone https://github.com/trysca/.github.git temp_repo
           cd temp_repo
           mkdir -p ./.github/.github
