@@ -1,30 +1,30 @@
-name: Copy SECURITY.md to .github repo
+name: Copy SECURITY.md
 
 on:
   push:
-    branches:
-      - main
+    paths:
+      - SECURITY.md
 
 jobs:
   copy_security:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v2
-
-      - name: Create .github/.github
-        run: mkdir -p .github/.github
 
       - name: Copy SECURITY.md
         run: |
-          cp SECURITY.md .github/.github/SECURITY.md
-
-      - name: Commit changes
-        run: |
-          git config --global user.email "tryscabot@gmail.com"
-          git config --global user.name "Trysca Automation"
-          cd .github
-          git add .github/SECURITY.md
+          git config --global user.email "actions@example.com"
+          git config --global user.name "GitHub Actions"
+          git clone https://github.com/trysca/.github.git temp_repo
+          cd temp_repo
+          cp ../SECURITY.md ./.github/.github/SECURITY.md
+          git add .github/.github/SECURITY.md
           git commit -m "Update SECURITY.md from trysca"
-          git push https://${{ secrets.PAT }}@github.com/trysca/.github.git HEAD:main
+          git push origin main
+          cd ..
+          rm -rf temp_repo
+
+        env:
+          PAT: ${{ secrets.PAT }}
