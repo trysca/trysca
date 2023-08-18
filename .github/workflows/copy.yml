@@ -19,6 +19,8 @@ jobs:
           git config --global user.name "GitHub Actions"
           git clone https://github.com/trysca/.github.git temp_repo
           cd temp_repo
+          mkdir -p ./.github/.github
+          rm -f ./.github/.github/SECURITY.md
           cp ../SECURITY.md ./.github/.github/SECURITY.md
           git add .github/.github/SECURITY.md
           git commit -m "Update SECURITY.md from trysca"
