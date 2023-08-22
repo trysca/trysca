@@ -17,7 +17,7 @@ jobs:
         run: |
           git config --global user.email "tryscabot@gmail.com"
           git config --global user.name "Trysca Automation"
-          git clone https://github.com/trysca/.github.git temp_repo
+          git clone https://github.com/trysca/trysca.git temp_repo
           cd temp_repo
           mkdir -p ./.github/.github
           rm -f ./.github/.github/SECURITY.md
