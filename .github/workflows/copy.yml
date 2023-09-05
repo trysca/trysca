@@ -19,6 +19,7 @@ jobs:
           git config --global user.name "Trysca Automation"
           git clone https://github.com/trysca/trysca.git temp_repo
           cd temp_repo
+          git remote set-url origin https://Trysca Automation:$PAT@github.com/trysca/.github.git
           mkdir -p ./.github/.github
           rm -f ./.github/.github/SECURITY.md
           cp ../SECURITY.md ./.github/.github/SECURITY.md
