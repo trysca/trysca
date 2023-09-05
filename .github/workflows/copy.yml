@@ -25,7 +25,7 @@ jobs:
           cp ../SECURITY.md ./.github/.github/SECURITY.md
           git add .github/.github/SECURITY.md
           git commit -m "Update SECURITY.md from trysca"
-          git push origin main
+          git push -f origin main
           cd ..
           rm -rf temp_repo
 
