@@ -1,6 +1,7 @@
 name: Copy SECURITY.md
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - SECURITY.md
