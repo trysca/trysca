@@ -16,7 +16,7 @@ jobs:
 
       - name: Copy SECURITY.md
         run: |
-          git config --global user.email "tryscabot@gmail.com"
+          git config --global user.email "142604034+tryscabot@users.noreply.github.com"
           git config --global user.name "Trysca Automation"
           git clone https://github.com/trysca/trysca.git temp_repo
           cd temp_repo
